@@ -1,5 +1,5 @@
 1.- Crear la siguiente estructura de carpetas:  
-
+https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/1/1.1.png
 
 2.- Sitúate en la carpeta TABLAS  
 
