@@ -55,6 +55,7 @@ ___
 o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo
 control interno es realizado por el sistema operativo, aunque desde el punto de
 vista lógico el control es del usuario”  
+
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/2/1.png)
 
 
@@ -68,6 +69,7 @@ vista lógico el control es del usuario”
 
 ### 4.- Añade el siguiente párrafo al archivo EJER.TXT:  
 “Cada archivo tiene un nombre y una extensión que los distingue del resto de archivos”  
+
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/2/4.png)
 
 
@@ -114,6 +116,7 @@ ___
 “La importancia de Tycho Brahe (1546-1601) es debida a sus trabajos
 observacionales, que registraron posiciones notables del Sol, la Luna y los
 planetas”  
+
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/3/4.png)
 
 
@@ -161,6 +164,7 @@ ___
 Consta esencialmente de componentes electrónicos que proporcionan el
 soporte necesario para la interpretación y ejecución de las operaciones
 elementales que realiza el ordenador”  
+
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/4/2.png)
 
 
@@ -171,6 +175,7 @@ elementales que realiza el ordenador”
 ordenador realice las funciones que se le encomiendan. Está formado por
 los programas, es decir, por un conjunto ordenado de instrucciones,
 comprensibles por la máquina, que permiten desarrollar tareas concretas”  
+
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/4/3.png)
 
 
