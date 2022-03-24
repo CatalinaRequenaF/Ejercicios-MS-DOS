@@ -1,4 +1,4 @@
-## EJERCICIO 2 - Ejercicios básicos de MS-DOS
+# EJERCICIO 2: Ejercicios básicos de MS-DOS  
 
 ### 1.- Crear la siguiente estructura de carpetas:  
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/1/1.1.png)  
