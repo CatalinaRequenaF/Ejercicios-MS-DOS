@@ -1,4 +1,5 @@
 # EJERCICIO 2: Ejercicios básicos de MS-DOS  
+## Parte 1  
 
 ### 1.- Crear la siguiente estructura de carpetas:  
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/1/1.1.png)  
@@ -48,7 +49,8 @@
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/1/12.png)
 
 
-___
+___  
+## Parte 2  
 
 ### 1.- Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura del ejercicio anterior):  
 “La información dentro de los discos se almacena en forma de archivos. Un archivo
@@ -97,7 +99,8 @@ vista lógico el control es del usuario”
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/2/10.png)
 
 
-___
+___  
+## Parte 3  
 
 ### 1.- Borra la carpeta ACCESS y en su lugar crea una nueva carpeta llamada ASTRO  
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/3/1.png)
@@ -152,7 +155,9 @@ planetas”
 
 
 
-___
+___  
+
+## Parte 4  
 
 ### 1.- Crea en la carpeta raíz de la unidad A: una carpeta denominada TECINFO  
 ![](https://github.com/CatalinaRequenaF/MS-DOS/blob/main/imagenes/4/1.png)
